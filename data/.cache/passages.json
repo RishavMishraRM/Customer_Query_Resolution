@@ -1,0 +1,277 @@
+{
+  "fingerprint": "80da16a804a1a78046eba254fffabedd",
+  "passages": [
+    {
+      "doc_name": "SOP_ATM_Failed_Cash_Withdrawal.md",
+      "policy_id": "SOP-ATM-004",
+      "policy_title": "Standard Operating Procedure for Failed ATM Cash Dispensation",
+      "section": "Policy Title: Standard Operating Procedure for Failed ATM Cash Dispensation",
+      "content": "# Policy Title: Standard Operating Procedure for Failed ATM Cash Dispensation",
+      "similarity_score": 0.0
+    },
+    {
+      "doc_name": "SOP_ATM_Failed_Cash_Withdrawal.md",
+      "policy_id": "SOP-ATM-004",
+      "policy_title": "Standard Operating Procedure for Failed ATM Cash Dispensation",
+      "section": "1. Overview",
+      "content": "## 1. Overview\nCovers cases where a customer attempted cash withdrawal at an On-Us (own bank) or Off-Us (other bank) ATM, their account was debited, but either partial cash or no cash was dispensed by the machine.",
+      "similarity_score": 0.0
+    },
+    {
+      "doc_name": "SOP_ATM_Failed_Cash_Withdrawal.md",
+      "policy_id": "SOP-ATM-004",
+      "policy_title": "Standard Operating Procedure for Failed ATM Cash Dispensation",
+      "section": "2. Bank SLA & Reversal Timeline",
+      "content": "## 2. Bank SLA & Reversal Timeline\n- Automated Auto-Reversal SLA: As mandated under banking guidelines for ATM transactions, auto-reversal of debited amount takes place within **T+5 calendar days**.\n- If credit is not received within T+5 calendar days, the customer is eligible for delay compensation of **\u20b9100 per day** for delays attributable to bank settlement.",
+      "similarity_score": 0.0
+    },
+    {
+      "doc_name": "SOP_ATM_Failed_Cash_Withdrawal.md",
+      "policy_id": "SOP-ATM-004",
+      "policy_title": "Standard Operating Procedure for Failed ATM Cash Dispensation",
+      "section": "1. Gather details: ATM Location/Terminal ID, Date, Approximate Time, and Amount",
+      "content": "1. Gather details: ATM Location/Terminal ID, Date, Approximate Time, and Amount requested.",
+      "similarity_score": 0.0
+    },
+    {
+      "doc_name": "SOP_ATM_Failed_Cash_Withdrawal.md",
+      "policy_id": "SOP-ATM-004",
+      "policy_title": "Standard Operating Procedure for Failed ATM Cash Dispensation",
+      "section": "2. Confirm if the customer has the physical ATM transaction slip.",
+      "content": "2. Confirm if the customer has the physical ATM transaction slip.",
+      "similarity_score": 0.0
+    },
+    {
+      "doc_name": "SOP_ATM_Failed_Cash_Withdrawal.md",
+      "policy_id": "SOP-ATM-004",
+      "policy_title": "Standard Operating Procedure for Failed ATM Cash Dispensation",
+      "section": "3. Check the switch electronic journal (EJ) log if available.",
+      "content": "3. Check the switch electronic journal (EJ) log if available.",
+      "similarity_score": 0.0
+    },
+    {
+      "doc_name": "SOP_ATM_Failed_Cash_Withdrawal.md",
+      "policy_id": "SOP-ATM-004",
+      "policy_title": "Standard Operating Procedure for Failed ATM Cash Dispensation",
+      "section": "4. If transaction is within T+5 days: Provide the reassurance script and registe",
+      "content": "4. If transaction is within T+5 days: Provide the reassurance script and register a tracking SR number.",
+      "similarity_score": 0.0
+    },
+    {
+      "doc_name": "SOP_ATM_Failed_Cash_Withdrawal.md",
+      "policy_id": "SOP-ATM-004",
+      "policy_title": "Standard Operating Procedure for Failed ATM Cash Dispensation",
+      "section": "4. Mandatory Escalation",
+      "content": "## 4. Mandatory Escalation\n- Escalate to: **ATM Reconciliation Cell (Queue: ATM-OPS-SLA)**.\n- If delay exceeds 7 days, trigger Senior Operations Manager review.",
+      "similarity_score": 0.0
+    },
+    {
+      "doc_name": "SOP_Card_Dispute_Resolution.txt",
+      "policy_id": "SOP-CARD-003",
+      "policy_title": "Standard Operating Procedure for Disputed Credit and Debit Card Charges",
+      "section": "DEMO POLICY DOCUMENT - FOR DEMONSTRATION PURPOSES ONLY",
+      "content": "DEMO POLICY DOCUMENT - FOR DEMONSTRATION PURPOSES ONLY\nSOP Identifier: SOP-CARD-003\nPolicy Title: Standard Operating Procedure for Disputed Credit and Debit Card Charges",
+      "similarity_score": 0.0
+    },
+    {
+      "doc_name": "SOP_Card_Dispute_Resolution.txt",
+      "policy_id": "SOP-CARD-003",
+      "policy_title": "Standard Operating Procedure for Disputed Credit and Debit Card Charges",
+      "section": "1. PURPOSE & APPLICABILITY:",
+      "content": "1. PURPOSE & APPLICABILITY:\nThis procedure applies to cardholders reporting duplicate charges, billing errors, unrecognized merchant transactions, or failed POS swipes resulting in posted debits on domestic and international payment cards.",
+      "similarity_score": 0.0
+    },
+    {
+      "doc_name": "SOP_Card_Dispute_Resolution.txt",
+      "policy_id": "SOP-CARD-003",
+      "policy_title": "Standard Operating Procedure for Disputed Credit and Debit Card Charges",
+      "section": "2. IMMEDIATE ACTIONS BY CALL CENTER AGENT:",
+      "content": "2. IMMEDIATE ACTIONS BY CALL CENTER AGENT:\nStep A: Verify Cardholder Identity using permitted non-sensitive questions (Date of Birth, Mother's maiden name, registered email domain). NEVER request or collect CVV, ATM PIN, or full 16-digit card number. Only verify the last 4 digits displayed on screen.\nStep B: Check Transaction Ledger. Confirm if the disputed transaction is in 'PENDING/HOLD' or 'SETTLED/POSTED' state.\n- If in 'HOLD' state: Inform customer that authorizations usually release automatically within 3 to 5 business days if uncollected by merchant.\n- If in 'SETTLED' state: A formal Chargeback dispute must be initiated.",
+      "similarity_score": 0.0
+    },
+    {
+      "doc_name": "SOP_Card_Dispute_Resolution.txt",
+      "policy_id": "SOP-CARD-003",
+      "policy_title": "Standard Operating Procedure for Disputed Credit and Debit Card Charges",
+      "section": "3. DISPUTE TYPES & TIMELINES:",
+      "content": "3. DISPUTE TYPES & TIMELINES:\n- Category 1: Duplicate Processing (Customer swiped once, billed twice by same merchant for identical amount).\n  Turnaround Time: Temporary shadow credit provided within 7 business days; investigation concluded within 14 business days.\n- Category 2: Fraudulent / Unrecognized Online Transaction.\n  Immediate Action: Block card immediately, reissue replacement card, and transfer call to Fraud Risk Management (FRM) team.\n- Category 3: Merchandise Not Received or Defective Goods.\n  Customer must first submit merchant invoice and proof of merchant cancellation attempt.",
+      "similarity_score": 0.0
+    },
+    {
+      "doc_name": "SOP_Card_Dispute_Resolution.txt",
+      "policy_id": "SOP-CARD-003",
+      "policy_title": "Standard Operating Procedure for Disputed Credit and Debit Card Charges",
+      "section": "4. ESCALATION & CHARGEBACK FILING:",
+      "content": "4. ESCALATION & CHARGEBACK FILING:\nIf duplicate swipe amount exceeds \u20b95,000, agent must log Chargeback Form CB-01 with Acquiring Switch within 60 days of statement date.\nEscalate to: Tier-2 Card Disputes Desk (Queue: CRD-DISPUTE-L2).\nAgent Warning: Never offer guaranteed compensation or statement write-offs without approval from the dispute settlement manager.",
+      "similarity_score": 0.0
+    },
+    {
+      "doc_name": "SOP_Debit_Card_Fraud_Protocol.pdf",
+      "policy_id": "SOP-CARD-003",
+      "policy_title": "SOP Debit Card Fraud Protocol",
+      "section": "1. Overview: Immediate protocol for blocking compromised cards.",
+      "content": "1. Overview: Immediate protocol for blocking compromised cards.",
+      "similarity_score": 0.0
+    },
+    {
+      "doc_name": "SOP_Debit_Card_Fraud_Protocol.pdf",
+      "policy_id": "SOP-CARD-003",
+      "policy_title": "SOP Debit Card Fraud Protocol",
+      "section": "2. Agent Action: Call center agents must instantly hotlist the card upon custome",
+      "content": "2. Agent Action: Call center agents must instantly hotlist the card upon customer report.",
+      "similarity_score": 0.0
+    },
+    {
+      "doc_name": "SOP_Debit_Card_Fraud_Protocol.pdf",
+      "policy_id": "SOP-CARD-003",
+      "policy_title": "SOP Debit Card Fraud Protocol",
+      "section": "3. Investigation: Transfer call to Fraud Risk Management within 5 minutes.",
+      "content": "3. Investigation: Transfer call to Fraud Risk Management within 5 minutes.",
+      "similarity_score": 0.0
+    },
+    {
+      "doc_name": "SOP_Debit_Card_Fraud_Protocol.pdf",
+      "policy_id": "SOP-CARD-003",
+      "policy_title": "SOP Debit Card Fraud Protocol",
+      "section": "4. SLA: Replacement card dispatched within 48 hours to registered address.",
+      "content": "4. SLA: Replacement card dispatched within 48 hours to registered address.",
+      "similarity_score": 0.0
+    },
+    {
+      "doc_name": "SOP_IMPS_Failed_Transactions.md",
+      "policy_id": "SOP-IMPS-001",
+      "policy_title": "Standard Operating Procedure for Failed IMPS Transactions",
+      "section": "Policy Title: Standard Operating Procedure for Failed IMPS Transactions",
+      "content": "# Policy Title: Standard Operating Procedure for Failed IMPS Transactions",
+      "similarity_score": 0.0
+    },
+    {
+      "doc_name": "SOP_IMPS_Failed_Transactions.md",
+      "policy_id": "SOP-IMPS-001",
+      "policy_title": "Standard Operating Procedure for Failed IMPS Transactions",
+      "section": "1. Overview and Scope",
+      "content": "## 1. Overview and Scope\nThis standard operating procedure governs customer inquiries regarding Immediate Payment Service (IMPS) transactions where the sender's account has been debited but the beneficiary has not received the funds, or where the transaction status is marked as 'FAILED'.",
+      "similarity_score": 0.0
+    },
+    {
+      "doc_name": "SOP_IMPS_Failed_Transactions.md",
+      "policy_id": "SOP-IMPS-001",
+      "policy_title": "Standard Operating Procedure for Failed IMPS Transactions",
+      "section": "2. Technical Causes of IMPS Failures",
+      "content": "## 2. Technical Causes of IMPS Failures\nIMPS failures commonly occur due to:\n- Beneficiary bank core banking system (CBS) timeout or switch downtime (Error code M4/M5).\n- NPCI (National Payments Corporation of India) clearing house switch failure.\n- Incorrect beneficiary IFSC code or invalid account number provided by the sender.",
+      "similarity_score": 0.0
+    },
+    {
+      "doc_name": "SOP_IMPS_Failed_Transactions.md",
+      "policy_id": "SOP-IMPS-001",
+      "policy_title": "Standard Operating Procedure for Failed IMPS Transactions",
+      "section": "1. **Verification of Transaction ID:** Prompt the customer to confirm the last 4",
+      "content": "1. **Verification of Transaction ID:** Prompt the customer to confirm the last 4 digits of the transaction reference number (RRN/Txn ID) and the registered account number.",
+      "similarity_score": 0.0
+    },
+    {
+      "doc_name": "SOP_IMPS_Failed_Transactions.md",
+      "policy_id": "SOP-IMPS-001",
+      "policy_title": "Standard Operating Procedure for Failed IMPS Transactions",
+      "section": "2. **Debit & Settlement Status Check:**",
+      "content": "2. **Debit & Settlement Status Check:** \n   - Check the CBS core switch log.\n   - If the switch response is 'DEEMED REVERSED' or 'FAILED', the funds are placed in the bank's internal suspense pooling account.",
+      "similarity_score": 0.0
+    },
+    {
+      "doc_name": "SOP_IMPS_Failed_Transactions.md",
+      "policy_id": "SOP-IMPS-001",
+      "policy_title": "Standard Operating Procedure for Failed IMPS Transactions",
+      "section": "3. **Turnaround Time (TAT) Communication:**",
+      "content": "3. **Turnaround Time (TAT) Communication:**\n   - Inform the customer that as per standard automated reconciliation cycles, the debited amount will be automatically reversed to their source account within **T+1 working day** (where T is the date of transaction).\n   - If the funds are not credited back within T+1 working days, a formal grievance ticket must be raised for manual reconciliation.",
+      "similarity_score": 0.0
+    },
+    {
+      "doc_name": "SOP_IMPS_Failed_Transactions.md",
+      "policy_id": "SOP-IMPS-001",
+      "policy_title": "Standard Operating Procedure for Failed IMPS Transactions",
+      "section": "4. **Compensation Guidelines:**",
+      "content": "4. **Compensation Guidelines:**\n   - Under demo guidelines, if credit reversal exceeds T+1 days due to remitter bank delay, standard statutory compensation of \u20b9100 per day of delay applies subject to bank verification.",
+      "similarity_score": 0.0
+    },
+    {
+      "doc_name": "SOP_IMPS_Failed_Transactions.md",
+      "policy_id": "SOP-IMPS-001",
+      "policy_title": "Standard Operating Procedure for Failed IMPS Transactions",
+      "section": "4. Agent Scripting Instructions",
+      "content": "## 4. Agent Scripting Instructions\n- Reassure the customer that their money is safe in the banking reconciliation channel.\n- Never promise immediate instant refunds while on call; clarify that automated settlement batches run every 6 hours.\n- Provide the customer with the internal tracking reference number for their call.",
+      "similarity_score": 0.0
+    },
+    {
+      "doc_name": "SOP_IMPS_Failed_Transactions.md",
+      "policy_id": "SOP-IMPS-001",
+      "policy_title": "Standard Operating Procedure for Failed IMPS Transactions",
+      "section": "5. Escalation Criteria",
+      "content": "## 5. Escalation Criteria\n- If the customer transaction has exceeded **T+2 working days** without reversal, immediately escalate to **Tier-2 Operations Desk (Desk Code: OPS-IMPS-ESC)**.\n- If the debited amount exceeds \u20b950,000 and status remains indeterminate, log a priority ticket with the Nodal Grievance Officer.",
+      "similarity_score": 0.0
+    },
+    {
+      "doc_name": "SOP_UPI_Pending_Transactions.md",
+      "policy_id": "SOP-UPI-002",
+      "policy_title": "Standard Operating Procedure for Pending UPI Merchant and P2P Transactions",
+      "section": "Policy Title: Standard Operating Procedure for Pending UPI Merchant and P2P Tr",
+      "content": "# Policy Title: Standard Operating Procedure for Pending UPI Merchant and P2P Transactions",
+      "similarity_score": 0.0
+    },
+    {
+      "doc_name": "SOP_UPI_Pending_Transactions.md",
+      "policy_id": "SOP-UPI-002",
+      "policy_title": "Standard Operating Procedure for Pending UPI Merchant and P2P Transactions",
+      "section": "1. Scope and Applicability",
+      "content": "## 1. Scope and Applicability\nApplies to Unified Payments Interface (UPI) transactions where the status appears as 'PENDING', 'PROCESSING', or 'DEEMED DECLINED' at the merchant checkout or recipient terminal, while the sender's account reflects a debit.",
+      "similarity_score": 0.0
+    },
+    {
+      "doc_name": "SOP_UPI_Pending_Transactions.md",
+      "policy_id": "SOP-UPI-002",
+      "policy_title": "Standard Operating Procedure for Pending UPI Merchant and P2P Transactions",
+      "section": "2. Root Causes",
+      "content": "## 2. Root Causes\n- Asynchronous communication between the Remitter Bank, NPCI UPI switch, and Acquiring Merchant Aggregator.\n- Session timeout during high-volume merchant processing windows (e.g., peak retail hours, festival sales).\n- Delayed response from the Remitter's Mobile Banking App or UPI third-party app provider (TPAP).",
+      "similarity_score": 0.0
+    },
+    {
+      "doc_name": "SOP_UPI_Pending_Transactions.md",
+      "policy_id": "SOP-UPI-002",
+      "policy_title": "Standard Operating Procedure for Pending UPI Merchant and P2P Transactions",
+      "section": "1. **Explain the Deemed Pending Window:**",
+      "content": "1. **Explain the Deemed Pending Window:**\n   - UPI transactions undergo continuous settlement cycles orchestrated by NPCI.\n   - For merchant payments (P2M), explain to the customer that the transaction is in an intermediate state. The merchant aggregator will either accept the funds (completing the order) or reject them within **24 hours**.",
+      "similarity_score": 0.0
+    },
+    {
+      "doc_name": "SOP_UPI_Pending_Transactions.md",
+      "policy_id": "SOP-UPI-002",
+      "policy_title": "Standard Operating Procedure for Pending UPI Merchant and P2P Transactions",
+      "section": "2. **Advice Regarding Re-initiating Payment:**",
+      "content": "2. **Advice Regarding Re-initiating Payment:**\n   - If the customer is physically at a store or attempting an urgent bill payment, advise them to wait **15 minutes** before making a duplicate payment, or opt for an alternate payment method (Cash / Card) only after checking that the merchant terminal explicitly reports failure.\n   - Reassure the customer that if both transactions succeed, one will be reversed automatically upon settlement audit.",
+      "similarity_score": 0.0
+    },
+    {
+      "doc_name": "SOP_UPI_Pending_Transactions.md",
+      "policy_id": "SOP-UPI-002",
+      "policy_title": "Standard Operating Procedure for Pending UPI Merchant and P2P Transactions",
+      "section": "3. **Turnaround Time (TAT) for Reversal:**",
+      "content": "3. **Turnaround Time (TAT) for Reversal:**\n   - In case the pending transaction ultimately fails, the amount will be automatically refunded to the customer's bank account within **T+1 business day** (max 48 hours for UPI).",
+      "similarity_score": 0.0
+    },
+    {
+      "doc_name": "SOP_UPI_Pending_Transactions.md",
+      "policy_id": "SOP-UPI-002",
+      "policy_title": "Standard Operating Procedure for Pending UPI Merchant and P2P Transactions",
+      "section": "4. Prohibited Agent Conduct",
+      "content": "## 4. Prohibited Agent Conduct\n- Never request or ask the customer to read out their UPI PIN, OTP, or CVV.\n- Never ask the customer to scan any QR code or install remote screen-sharing software (AnyDesk, TeamViewer) to receive a refund.",
+      "similarity_score": 0.0
+    },
+    {
+      "doc_name": "SOP_UPI_Pending_Transactions.md",
+      "policy_id": "SOP-UPI-002",
+      "policy_title": "Standard Operating Procedure for Pending UPI Merchant and P2P Transactions",
+      "section": "5. Escalation Matrix",
+      "content": "## 5. Escalation Matrix\n- If the status remains 'PENDING' after **48 hours**, escalate to **Digital Payments Resolution Cell (Ticket Queue: UPI-REV-Q2)**.\n- For high-priority merchants (utilities, medical emergencies), flag ticket with 'URGENT-ESC-1'.",
+      "similarity_score": 0.0
+    }
+  ]
+}

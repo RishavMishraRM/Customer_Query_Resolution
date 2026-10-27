@@ -1,0 +1,25 @@
+DEMO POLICY DOCUMENT - FOR DEMONSTRATION PURPOSES ONLY
+SOP Identifier: SOP-CARD-003
+Policy Title: Standard Operating Procedure for Disputed Credit and Debit Card Charges
+
+1. PURPOSE & APPLICABILITY:
+This procedure applies to cardholders reporting duplicate charges, billing errors, unrecognized merchant transactions, or failed POS swipes resulting in posted debits on domestic and international payment cards.
+
+2. IMMEDIATE ACTIONS BY CALL CENTER AGENT:
+Step A: Verify Cardholder Identity using permitted non-sensitive questions (Date of Birth, Mother's maiden name, registered email domain). NEVER request or collect CVV, ATM PIN, or full 16-digit card number. Only verify the last 4 digits displayed on screen.
+Step B: Check Transaction Ledger. Confirm if the disputed transaction is in 'PENDING/HOLD' or 'SETTLED/POSTED' state.
+- If in 'HOLD' state: Inform customer that authorizations usually release automatically within 3 to 5 business days if uncollected by merchant.
+- If in 'SETTLED' state: A formal Chargeback dispute must be initiated.
+
+3. DISPUTE TYPES & TIMELINES:
+- Category 1: Duplicate Processing (Customer swiped once, billed twice by same merchant for identical amount).
+  Turnaround Time: Temporary shadow credit provided within 7 business days; investigation concluded within 14 business days.
+- Category 2: Fraudulent / Unrecognized Online Transaction.
+  Immediate Action: Block card immediately, reissue replacement card, and transfer call to Fraud Risk Management (FRM) team.
+- Category 3: Merchandise Not Received or Defective Goods.
+  Customer must first submit merchant invoice and proof of merchant cancellation attempt.
+
+4. ESCALATION & CHARGEBACK FILING:
+If duplicate swipe amount exceeds ₹5,000, agent must log Chargeback Form CB-01 with Acquiring Switch within 60 days of statement date.
+Escalate to: Tier-2 Card Disputes Desk (Queue: CRD-DISPUTE-L2).
+Agent Warning: Never offer guaranteed compensation or statement write-offs without approval from the dispute settlement manager.
